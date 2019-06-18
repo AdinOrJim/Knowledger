@@ -34,7 +34,7 @@ form.addEventListener('submit', e => {
             output++;
         }
 
-    }, 30);
+    }, 20);
 
 
     correct.forEach((item, index) => {
